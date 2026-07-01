@@ -1,6 +1,8 @@
-# Hi, I'm Nicholas Wee 👋
+# Hi, I'm Nicholas 👋
 
-I am an aspiring Applied Machine Learning / AI Engineer and a Computer Science & Design undergraduate at SUTD. I focus on bridging the gap between theoretical machine learning models and production-ready software systems. Projects I have explored include custom model fine-tuning, parameter optimisation, and agentic workflows.
+I am an aspiring Applied Machine Learning / AI Engineer and a Computer Science & Design undergraduate at SUTD. I focus on bridging the gap between theoretical machine learning models and production-ready software systems. Projects I have explored include custom model fine-tuning, parameter optimisation, and agentic workflows. 
+
+Always looking out for opportunities!
 
 ---
 
