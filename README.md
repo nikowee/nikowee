@@ -7,7 +7,7 @@ Always looking out for opportunities!
 ---
 
 ## 🚀 Key Technical Focus Areas
-* **Generative AI & LLMOps:** Fine-tuning open-weights architectures (LoRA/QLoRA), model quantization engineering (GGUF via `llama.cpp`), and context-window optimization.
+* **Machine Learning & MLOps:** Fine-tuning open-weights architectures (LoRA/QLoRA), model quantization engineering (GGUF via `llama.cpp`), and context-window optimization.
 * **Agentic Workflows:** Designing state-persistent multi-agent architectures, structured evaluation loops, and deterministic human-in-the-loop guardrails.
 * **Full-Stack AI Software:** Building asynchronous web microservices (FastAPI), secure backend state management, and containerized deployment infrastructure (Docker).
 
